@@ -19,3 +19,5 @@ public class Arts extends Education {
 
 	}
 }
+
+// jus for practice i'm typing this line
